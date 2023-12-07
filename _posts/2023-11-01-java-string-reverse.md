@@ -57,7 +57,7 @@ public class Main {
 ```
 
 **결과**
-> StringBuilder: olleH
+> StringBuilder: olleH   
 StringBuffer: olleH
 
 두 클래스 모두 같은 결과를 반환한다.
